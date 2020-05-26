@@ -1,0 +1,13 @@
+java.lang.String : email = "sample@sample.com";
+java.lang.String : name = "sample name";
+java.lang.String : phoneNumber = "010-0000-0000";
+java.lang.String : birthDay = "2000.01.01";
+java.util.ArrayList : addresses = 1;
+java.util.ArrayList : membershipList = 2;
+#
+java.lang.String : email = "sample1@sample.com";
+java.lang.String : name = "sample1 name";
+java.lang.String : phoneNumber = "010-0000-0001";
+java.util.ArrayList : addresses = 4;
+java.util.ArrayList : membershipList = 5;
+#

@@ -1,0 +1,18 @@
+java.lang.Long : serialVersionUID = 3801124242820219131;
+java.util.LinkedHashMap.Entry : head = 1;
+java.util.LinkedHashMap.Entry : tail = 3;
+java.lang.Boolean : accessOrder = false;
+java.lang.Long : serialVersionUID = 362498820763181265;
+java.lang.Integer : DEFAULT_INITIAL_CAPACITY = 16;
+java.lang.Integer : MAXIMUM_CAPACITY = 1073741824;
+java.lang.Float : DEFAULT_LOAD_FACTOR = 0.75;
+java.lang.Integer : TREEIFY_THRESHOLD = 8;
+java.lang.Integer : UNTREEIFY_THRESHOLD = 6;
+java.lang.Integer : MIN_TREEIFY_CAPACITY = 64;
+java.util.HashMap.Node[] : table = 1 : 16;
+java.util.LinkedHashMap.LinkedEntrySet : entrySet = 1;
+java.lang.Integer : size = 3;
+java.lang.Integer : modCount = 3;
+java.lang.Integer : threshold = 12;
+java.lang.Float : loadFactor = 0.75;
+#

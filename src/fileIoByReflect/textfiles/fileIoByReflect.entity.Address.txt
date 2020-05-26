@@ -1,0 +1,6 @@
+java.lang.String : zipCode = "134-321";
+java.lang.String : zipAddress = "Seoul, Geumcheon-gu, Gasan-dong";
+java.lang.String : streetAddress = "231";
+java.lang.String : country = "South Korea";
+fileIoByReflect.entity.AddressType : addressType = Home;
+#

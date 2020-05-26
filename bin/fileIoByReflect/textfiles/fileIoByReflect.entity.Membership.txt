@@ -1,0 +1,10 @@
+java.lang.String : clubId = "Club Sample";
+java.lang.String : memberEmail = "sample@sample.com";
+fileIoByReflect.entity.Role : role = Member;
+java.lang.String : joinDate = "Sat May 23 01:32:04 KST 2020";
+#
+java.lang.String : clubId = "Club Sample";
+java.lang.String : memberEmail = "sample1@sample.com";
+fileIoByReflect.entity.Role : role = Member;
+java.lang.String : joinDate = "Sat May 23 01:32:04 KST 2020";
+#

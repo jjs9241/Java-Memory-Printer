@@ -1,0 +1,4 @@
+java.lang.String : id = "Club Sample";
+java.lang.String : foundationDay = "Sat May 23 01:32:04 KST 2020";
+java.util.ArrayList : membershipList = 3;
+#

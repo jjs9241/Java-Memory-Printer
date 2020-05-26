@@ -1,0 +1,50 @@
+java.lang.Long : serialVersionUID = 8683452581122892189;
+java.lang.Integer : DEFAULT_CAPACITY = 10;
+java.lang.Object[] : EMPTY_ELEMENTDATA = 1 : 0;
+java.lang.Object[] : DEFAULTCAPACITY_EMPTY_ELEMENTDATA = 2 : 0;
+java.lang.Object[] : elementData = 3 : 10;
+java.lang.Integer : size = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+java.lang.Integer : modCount = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+#
+java.lang.Long : serialVersionUID = 8683452581122892189;
+java.lang.Integer : DEFAULT_CAPACITY = 10;
+java.lang.Object[] : EMPTY_ELEMENTDATA = 1 : 0;
+java.lang.Object[] : DEFAULTCAPACITY_EMPTY_ELEMENTDATA = 2 : 0;
+java.lang.Object[] : elementData = 4 : 10;
+java.lang.Integer : size = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+java.lang.Integer : modCount = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+#
+java.lang.Long : serialVersionUID = 8683452581122892189;
+java.lang.Integer : DEFAULT_CAPACITY = 10;
+java.lang.Object[] : EMPTY_ELEMENTDATA = 1 : 0;
+java.lang.Object[] : DEFAULTCAPACITY_EMPTY_ELEMENTDATA = 2 : 0;
+java.lang.Object[] : elementData = 5 : 10;
+java.lang.Integer : size = 2;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+java.lang.Integer : modCount = 2;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+#
+java.lang.Long : serialVersionUID = 8683452581122892189;
+java.lang.Integer : DEFAULT_CAPACITY = 10;
+java.lang.Object[] : EMPTY_ELEMENTDATA = 1 : 0;
+java.lang.Object[] : DEFAULTCAPACITY_EMPTY_ELEMENTDATA = 2 : 0;
+java.lang.Object[] : elementData = 2 : 0;
+java.lang.Integer : size = 0;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+java.lang.Integer : modCount = 0;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+#
+java.lang.Long : serialVersionUID = 8683452581122892189;
+java.lang.Integer : DEFAULT_CAPACITY = 10;
+java.lang.Object[] : EMPTY_ELEMENTDATA = 1 : 0;
+java.lang.Object[] : DEFAULTCAPACITY_EMPTY_ELEMENTDATA = 2 : 0;
+java.lang.Object[] : elementData = 6 : 10;
+java.lang.Integer : size = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+java.lang.Integer : modCount = 1;
+java.lang.Integer : MAX_ARRAY_SIZE = 2147483639;
+#
